@@ -1,1 +1,1 @@
-# Medicl_Practice
+# Medical_Practice
